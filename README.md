@@ -31,16 +31,20 @@
 2. Color may be altered to suits the design of the poster.
 3. You can find the CSS logos [here](https://github.com/Jawkx/UNM-CSS-marketing-resources/tree/main/CSS%20logo)
 
-## Resources
+## Additional Resources
 
-### Editor
+### Editor (I really recommend using Canva it was waay better than Gimp)
 1. [Gimp](https://www.gimp.org/)
 2. [Canva](https://www.canva.com/)
+3. [Inkscape](https://inkscape.org/) (Use this to create your own svg )
 
-### Clip art
+### Clip art and backdrop
 1. [unDraw](https://undraw.co/illustrations)
 2. [freePik](https://www.freepik.com/vectors/illustrations)
+3. [SVG background](https://www.svgbackgrounds.com/)
+4. [lukaszadam](https://lukaszadam.com/illustrations)
 
 ### Icons
 1. [Font Awesome](https://fontawesome.com/v4.7.0/icons/)
 2. [Simple Icons](https://simpleicons.org/)
+4. [Ant Icons](https://ant.design/components/icon/)
